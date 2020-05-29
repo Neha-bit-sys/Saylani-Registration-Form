@@ -1,0 +1,46 @@
+.top-container{
+    text-align: center;
+  }
+  h1{
+    font-size: 37px;
+    color: blue;
+  }
+  .middle-container{
+    height: 830px;
+    width: 1260px;
+    margin: 50px 40px 100px 40px;
+    background-color: #0779e4;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: white;
+  }
+  .button
+  {
+    text-align: center;
+    margin: 5px ;
+  }
+  .submit-container{
+    text-align: center;
+  }
+  h2{
+    color: green;
+    font-size: 50px;
+  }
+  h3
+  {
+    font-size: 30px;
+    color: blue;
+  }
+  #go{
+    color: blue;
+  }
+
+  form {
+      background-color:blueviolet;
+  }
+  #heading {
+      color: blueviolet;
+  }
+  body {
+    color: white;
+  }
